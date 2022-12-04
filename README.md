@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Bart 👋
+- 🌱 I'm currently learning c#, c++ and unreal as a hobby :)
+- 🔭 I’m currently working on [car_rental](https://github.com/LenoBartek/car_rental)
+
+<hr style="height: 5px; background: grey; border: 0px;">
+
+#### Unreal projects will appear on my Azure DevOps ![](https://github.com/LenoBartek/LenoBartek/blob/img/images/azure.png?raw=true) 
+
+https://dev.azure.com/LenoBartek/UE5
+
+https://dev.azure.com/LenoBartek/UE5_OwnProject
 
 <!--
 **LenoBartek/LenoBartek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

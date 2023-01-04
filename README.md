@@ -1,6 +1,6 @@
 ### Hi there, I'm Bart 👋
 - 🌱 I'm currently learning c#, c++ and unreal as a hobby :)
-- 🔭 I’m currently working on [car_rental](https://github.com/LenoBartek/car_rental)
+<!-- - 🔭 I’m currently working on [car_rental](https://github.com/LenoBartek/car_rental) -->
 
 <hr style="height: 5px; background: grey; border: 0px;">
 
